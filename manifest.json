@@ -66,6 +66,93 @@
       ],
       "ast": [
         "aggregate/ast/9efc29b6e58cef28f6566a47aa7e142a55fead77/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9efc29b6e58cef28f6566a47aa7e142a55fead77.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.3.6",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubCommit": "f9ccd05caad4d068679074c3bc33c3f712ff2343",
+          "githubTag": "0.3.6",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/criterion-0.3.6/src/macros.rs"
+        },
+        {
+          "packageName": "quote",
+          "ecosystem": "CARGO",
+          "version": "1.0.47",
+          "githubOrg": "dtolnay",
+          "githubRepo": "quote",
+          "githubCommit": "723dcb47d3f0ddc896e17287c8a8d3f2ea2317d5",
+          "githubTag": "1.0.47",
+          "githubUrl": "https://github.com/dtolnay/quote",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.47/src/lib.rs"
+        },
+        {
+          "packageName": "syn",
+          "ecosystem": "CARGO",
+          "version": "2.0.119",
+          "githubOrg": "dtolnay",
+          "githubRepo": "syn",
+          "githubCommit": "3295f9e9841785ac88a5e558c884854d5fb7d67f",
+          "githubTag": "2.0.119",
+          "githubUrl": "https://github.com/dtolnay/syn",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-2.0.119/src/data.rs"
+        },
+        {
+          "packageName": "proc-macro2",
+          "ecosystem": "CARGO",
+          "version": "1.0.107",
+          "githubOrg": "dtolnay",
+          "githubRepo": "proc-macro2",
+          "githubCommit": "ed8a5497669cd63db33bf24646f261b012bbbc4a",
+          "githubTag": "1.0.107",
+          "githubUrl": "https://github.com/dtolnay/proc-macro2",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.107/src/lib.rs"
+        },
+        {
+          "packageName": "serde_core",
+          "ecosystem": "CARGO",
+          "version": "1.0.229",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "7fc3b4c30c94f73a96ebd1553f2b090d928fc3a8",
+          "githubTag": "v1.0.229",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.229/src/ser/impls.rs"
+        },
+        {
+          "packageName": "serde_test",
+          "ecosystem": "CARGO",
+          "version": "1.0.177",
+          "githubOrg": "serde-rs",
+          "githubRepo": "test",
+          "githubCommit": "bbb18e2db032ec5da07e07368e4d55647cf10229",
+          "githubTag": "1.0.177",
+          "githubUrl": "https://github.com/serde-rs/test",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_test-1.0.177/src/assert.rs"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0.229",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "7fc3b4c30c94f73a96ebd1553f2b090d928fc3a8",
+          "githubTag": "v1.0.229",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs"
+        }
       ]
     }
   ],
